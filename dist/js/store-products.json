@@ -1,0 +1,114 @@
+[
+  {
+    "name": "50mm fender flare",
+    "price": 200,
+    "description": "Super flexible fender flare made of faber glass with a special gelcot.",
+    "wide": 50,    
+    "color": "Grey",
+    "images": [
+      "../Contenu/Products/Flares50mm/1.jpg",
+      "../Contenu/Products/Flares50mm/2.jpg",
+      "../Contenu/Products/Flares50mm/3.jpg",
+      "../Contenu/Products/Flares50mm/4.jpg",
+      "../Contenu/Products/Flares50mm/5.jpg",
+      "../Contenu/Products/Flares50mm/6.jpg"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "Ducktail Is300",
+    "price": 240,
+    "description": "Fit on all Lexus IS sedan, First generation (1998-2005).",
+    "color": "Grey",
+    "images": [
+      "../Contenu/Products/Ducktail_Altezza_Is300/1.jpg",
+      "../Contenu/Products/Ducktail_Altezza_Is300/2.jpg",
+      "../Contenu/Products/Ducktail_Altezza_Is300/3.jpg",
+      "../Contenu/Products/Ducktail_Altezza_Is300/4.jpg",
+      "../Contenu/Products/Ducktail_Altezza_Is300/5.jpg",
+      "../Contenu/Products/Ducktail_Altezza_Is300/6.jpg"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "Ducktail Silvia S13",
+    "price": 200,
+    "description": "Ducktail for Silvia S13 Coup.",
+    "color": "Grey",
+    "images": [
+      "../Contenu/Products/Ducktail_Silvia_S13/1.jpg",
+      "../Contenu/Products/Ducktail_Silvia_S13/2.jpg",
+      "../Contenu/Products/Ducktail_Silvia_S13/3.jpg",
+      "../Contenu/Products/Ducktail_Silvia_S13/4.jpg"
+    ],
+    "reviews": []
+  }	,
+  {
+    "name": "Overfenders S13",
+    "price": 400,
+    "description": "Overfenders for S13 Hatch.",
+    "color": "Grey",
+    "images": [
+      "../Contenu/Products/Overfenders_S13_Hatch/1.jpg",
+      "../Contenu/Products/Overfenders_S13_Hatch/2.jpg",
+      "../Contenu/Products/Overfenders_S13_Hatch/3.jpg",
+      "../Contenu/Products/Overfenders_S13_Hatch/4.jpg",
+      "../Contenu/Products/Overfenders_S13_Hatch/5.jpg",
+      "../Contenu/Products/Overfenders_S13_Hatch/6.jpg"
+    ],
+    "reviews": []
+  }	
+    ,
+  {
+    "name": "Ducktail S12",
+    "price": 200,
+    "description": "Ducktail for S12 Coup.",
+    "color": "Grey",
+    "images": [
+      "../Contenu/Products/Nissan_S12_Coup/1.jpg",
+      "../Contenu/Products/Nissan_S12_Coup/2.jpg",
+      "../Contenu/Products/Nissan_S12_Coup/3.jpg"
+    ],
+    "reviews": []
+  }
+    ,
+  {
+    "name": "Ducktail Skyline r32",
+    "price": 200,
+    "description": "Ducktail for Skyline r32, 2 or 4 Doors.",
+    "color": "Grey",
+    "images": [
+      "../Contenu/Products/Ducktail_Skyline_r32_2or4_Doors/1.jpg",
+      "../Contenu/Products/Ducktail_Skyline_r32_2or4_Doors/2.jpg",
+      "../Contenu/Products/Ducktail_Skyline_r32_2or4_Doors/3.jpg",
+      "../Contenu/Products/Ducktail_Skyline_r32_2or4_Doors/4.jpg",
+      "../Contenu/Products/Ducktail_Skyline_r32_2or4_Doors/5.jpg",
+      "../Contenu/Products/Ducktail_Skyline_r32_2or4_Doors/6.jpg"
+    ],
+    "reviews": []
+  }
+    ,
+  {
+    "name": "Ducktail S13",
+    "price": 200,
+    "description": "Ducktail for S13 Hatch.",
+    "color": "Grey",
+    "images": [
+      "../Contenu/Products/Ducktail_s13 _Hatch/1.jpg",
+      "../Contenu/Products/Ducktail_s13 _Hatch/2.jpg"
+    ],
+    "reviews": []
+  }
+    ,
+  {
+    "name": "Ducktail Rx7",
+    "price": 200,
+    "description": "Ducktail for Rx7.",
+    "color": "Grey",
+    "images": [
+      "../Contenu/Products/Ducktail_Rx7/1.jpg",
+      "../Contenu/Products/Ducktail_Rx7/2.jpg"
+    ],
+    "reviews": []
+  }
+]

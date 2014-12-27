@@ -15,7 +15,7 @@ body {
 }
 
 .caption {
-  height: 130px;
+  height: 100%;
   overflow: hidden;
 }
 
@@ -24,7 +24,8 @@ body {
 }
 
 .thumbnail img {
-  width: 100%;
+  width: auto;
+	
 }
 
 .ratings {
@@ -35,6 +36,8 @@ body {
 
 .thumbnail {
   padding: 0;
+  width: 100%;
+
 }
 
 .thumbnail .caption-full {
@@ -44,4 +47,22 @@ body {
 
 footer {
   margin: 50px 0;
+}
+
+
+.ng-binding{
+	margin-left: 10px;
+    margin-right: 10px;
+}
+
+.small-image.pull-left.thumbnail.ng-scope{
+	max-width: 30%;
+    height: 65px;
+    border: 0px;
+}
+
+ul,
+ol {
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
