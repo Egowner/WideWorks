@@ -3,7 +3,7 @@
     "name": "50mm fender flare",
     "price": 200,
     "description": "Super flexible fender flare made of faber glass with a special gelcot.",
-    "wide": 50,    
+    "wide": 50,
     "color": "Grey",
     "images": [
       "../Contenu/Products/Flares50mm/1.jpg",
@@ -57,7 +57,7 @@
       "../Contenu/Products/Overfenders_S13_Hatch/6.jpg"
     ],
     "reviews": []
-  }	
+  }
     ,
   {
     "name": "Ducktail S12",
