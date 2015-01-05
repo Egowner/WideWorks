@@ -1,15 +1,17 @@
 <!--  Spec Tab's Content  -->
-<h4>Specs</h4>
 <ul class="list-unstyled">
+  <li ng-hide="!product.brand">
+    <strong>Brand</strong>
+    : {{product.brand}}</li>
+  <li ng-hide="!product.model">
+    <strong>Model</strong>
+    : {{product.model}}</li>
+  <li ng-hide="!product.part">
+    <strong>Part</strong>
+    : {{product.part}}</li>    
   <li ng-hide="!product.wide">
     <strong>Wide</strong>
     : {{product.wide}}</li>
-  <li ng-hide="!product.faces">
-    <strong>Faces</strong>
-    : {{product.faces}}</li>
-  <li ng-hide="!product.rarity">
-    <strong>Rarity</strong>
-    : {{product.rarity}}</li>
   <li ng-hide="!product.color">
     <strong>Color</strong>
     : {{product.color}}</li>
