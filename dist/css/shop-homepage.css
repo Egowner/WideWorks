@@ -1,9 +1,5 @@
 body {
   padding-top: 70px;
-  background-image: url("../../Contenu/Products/BackGround_mini.jpg");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center bottom;
 }
 
 .slide-image {
@@ -34,10 +30,9 @@ body {
 }
 
 .thumbnail {
-  background-color: rgb(236, 245, 224);
   padding: 0;
   width: 100%;
-  box-shadow: 5px 5px 15px rgb(124, 159, 163);
+  box-shadow: 5px 5px 15px black;
 }
 
 .img-thumbnail{
@@ -92,6 +87,7 @@ border-left: 5px solid #8DA9BF;
 -------------------------------------------------- */
 @media (min-width: 250px) {
     .thumbnail {
+        width: 98%;
         border: 0px solid #ddd; 
         padding: 4px;
     }
@@ -107,6 +103,10 @@ border-left: 5px solid #8DA9BF;
     }
 }
 
+@media (min-width: 768px) {
+    width: 100%;
+}
+
 @media (min-width: 775px) {
     .small-image.pull-left.thumbnail.ng-scope{
         max-width: 29%;
@@ -119,6 +119,19 @@ border-left: 5px solid #8DA9BF;
 @media (min-width: 992px) {
     .small-image.pull-left.thumbnail.ng-scope{
         max-width: 24%;
+    }
+}
+
+@media (min-width: 1025px) {
+    body{
+        background-image: url("../../Contenu/Products/BackGround_mini.jpg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center bottom;
+    }
+    .thumbnail {
+        background-color: rgb(236, 245, 224);
+        box-shadow: 5px 5px 15px rgb(124, 159, 163);
     }
 }
 
