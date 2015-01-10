@@ -1,11 +1,11 @@
 [
   {
-    "name": "50mm Fender Flare",
+    "name": "50mm Fender Flares",
     "price": 200,
     "brand": "All",
     "model": "All",
     "part": "Flare",
-    "description": "Super flexible fender flare made of faber glass with a special gelcot.",
+    "description": "Universal and very flexible fender flares made of Fiberglass.",
     "wide": "50mm",
     "color": "Grey",
     "images": [
@@ -19,12 +19,12 @@
     "reviews": []
   },
   {
-    "name": "Ducktail Is300",
-    "brand": "Lexus",
-    "model": "IS300 (1998-2005)",
-    "part": "Ducktail",
+    "name": "Ducktail Is300/Altezza",
     "price": 240,
-    "description": "Fit on all Lexus IS sedan, First generation (1998-2005).",
+    "brand": "Lexus",
+    "model": "IS300/Altezza (1998-2005)",
+    "part": "Ducktail",
+    "description": "Ducktail Fit on all Lexus IS/Altezza sedan, First generation (1998-2005)",
     "color": "Grey",
     "images": [
       "../Contenu/Products/Ducktail_Altezza_Is300/1.jpg",
@@ -37,12 +37,12 @@
     "reviews": []
   },
   {
-    "name": "Overfenders S13",
-    "price": 400,
+    "name": "Rear Overfenders 180/240sx",
+    "price": 350,
     "brand": "Nissan",
-    "model": "S13 hatch",
-    "part": "Overfenders",
-    "description": "Those are some homemade Overfenders for S13 Hatch. We always have them in stock, we are building some for the front.",
+    "model": "180/240sx hatch",
+    "part": "Rear Overfenders",
+    "description": "Wide Works rear Overfenders for s13 Hatch, 60mm wide and super flexible, these overfenders cover the whole quarter panel.",
     "color": "Grey",
     "images": [
       "../Contenu/Products/Overfenders_S13_Hatch/1.jpg",
@@ -55,12 +55,38 @@
     "reviews": []
   },
   {
-    "name": "Ducktail Silvia S13",
+    "name": "Front Overfenders 180/240sx",
+    "price": 350,
+    "brand": "Nissan",
+    "model": "180/240sx hatch",
+    "part": "Front Overfenders",
+    "description": "Wide Works Front Overfenders for s13 Hatch, 50mm wide and super flexible, these overfenders replace your whole front fenders.",
+    "color": "Grey",
+    "images": [
+    ],
+    "reviews": []
+  },
+  {
+    "name": "Ducktail 180/240sx S13 Hatch",
     "price": 200,
     "brand": "Nissan",
-    "model": "Silvia (S13)",
+    "model": "180/240sx s13 Hatch",
     "part": "Ducktail",
-    "description": "This is a Ducktail for Silvia S13 Coup.",
+    "description": "Ducktail for 180/240sx S13 Hatch.",
+    "color": "Grey",
+    "images": [
+      "../Contenu/Products/Ducktail_s13 _Hatch/1.jpg",
+      "../Contenu/Products/Ducktail_s13 _Hatch/2.jpg"
+    ],
+    "reviews": []
+  },
+  {
+    "name": "Ducktail 240sx/Silvia S13",
+    "price": 200,
+    "brand": "Nissan",
+    "model": "240sx/Silvia (S13)",
+    "part": "Ducktail",
+    "description": "Ducktail for 240sx/Silvia S13 Coupe.",
     "color": "Grey",
     "images": [
       "../Contenu/Products/Ducktail_Silvia_S13/1.jpg",
@@ -71,26 +97,12 @@
     "reviews": []
   },
   {
-    "name": "Ducktail S13",
-    "price": 200,
-    "brand": "Nissan",
-    "model": "S13 Hatch",
-    "part": "Ducktail",
-    "description": "Ducktail for S13 Hatch.",
-    "color": "Grey",
-    "images": [
-      "../Contenu/Products/Ducktail_s13 _Hatch/1.jpg",
-      "../Contenu/Products/Ducktail_s13 _Hatch/2.jpg"
-    ],
-    "reviews": []
-  },
-  {
-    "name": "Ducktail Skyline r32",
+    "name": "Ducktail Skyline R32",
     "price": 200,
     "brand": "Nissan",
     "model": "Skyline R32",
     "part": "Ducktail",
-    "description": "Ducktail for Skyline r32, 2 or 4 Doors.",
+    "description": "Ducktail for Skyline r32, 2 or 4 Doors. This product will require some minor fitting, please contact for more info.",
     "color": "Grey",
     "images": [
       "../Contenu/Products/Ducktail_Skyline_r32_2or4_Doors/1.jpg",
@@ -103,12 +115,12 @@
     "reviews": []
   },
   {
-    "name": "Ducktail Rx7",
+    "name": "Ducktail Rx7 Fc",
     "price": 200,
     "brand": "Mazda",
     "model": "RX7",
     "part": "Ducktail",
-    "description": "Ducktail for Rx7.",
+    "description": "Ducktail for Rx7 Fc. This product will require some minor fitting, please contact for more info.",
     "color": "Grey",
     "images": [
       "../Contenu/Products/Ducktail_Rx7/1.jpg",
@@ -122,7 +134,7 @@
     "brand": "Nissan",
     "model": "S12 Coup",
     "part": "Ducktail",
-    "description": "Ducktail for S12 Coup.",
+    "description": "Ducktail for S12 Coup. This product will require some minor fitting, please contact for more info.",
     "color": "Grey",
     "images": [
       "../Contenu/Products/Nissan_S12_Coup/1.jpg",
