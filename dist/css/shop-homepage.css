@@ -122,19 +122,6 @@ border-left: 5px solid #8DA9BF;
     }
 }
 
-@media (min-width: 1025px) {
-    body{
-        background-image: url("../../Contenu/Products/BackGround_mini.jpg");
-        background-repeat: no-repeat;
-        background-attachment: fixed;
-        background-position: center bottom;
-    }
-    .thumbnail {
-        background-color: rgb(236, 245, 224);
-        box-shadow: 5px 5px 15px rgb(124, 159, 163);
-    }
-}
-
 @media (min-width: 1200px) {
     .small-image.pull-left.thumbnail.ng-scope{
         max-width: 29%;
